@@ -18,9 +18,11 @@ var pos = 0;
         if (direction) {
             pos -= 20;
             img.style.left = pos + "px";
+            img.style.filter = 'invert(1)';
         } else {
             pos += 20;
-            img.style.left = pos + 'px';
+            img.style.left = pos + 'px';            
+            img.style.filter = 'invert(0)';
         }
         // Use setTimeout to call Run every 200 millesecs
     }
