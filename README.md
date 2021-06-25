@@ -13,6 +13,7 @@ If you'd like to use, you can download the files, open them in your browser to s
 ## Next Steps
 Make the pacman change color on each move using CSS. 
 Add some actions on click such as reversing or color change.
+Add button for speeding up or slowing down motion on click.
 
 ## LICENSE INFORMATION
 Copyright 2021 MIT
